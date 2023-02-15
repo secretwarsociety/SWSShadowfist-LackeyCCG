@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230131</lastupdateYYMMDD>
+<lastupdateYYMMDD>230215</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Fix Jessica Ng</message>
+<message>Better Tomorrow and Better Yesterday</message>
 </version>
