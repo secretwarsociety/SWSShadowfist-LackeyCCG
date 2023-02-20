@@ -504,8 +504,8 @@ bettertomorrow/reveille.png	https://raw.githubusercontent.com/secretwarsociety/S
 bettertomorrow/spiked_war_rig.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/spiked_war_rig.png
 bettertomorrow/soul_fire.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/soul_fire.png
 bettertomorrow/facilitator.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/facilitator.png
-bettertomorrow/mr_rhee.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/mr_rhee.png
 bettertomorrow/johann_bonengel.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/johann_bonengel.png
+bettertomorrow/sprung_li.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/sprung_li.png
 bettertomorrow/dream_team.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/dream_team.png
 bettertomorrow/curse_of_binding.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/curse_of_binding.png
 bettertomorrow/hohman_station_alpha.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/hohman_station_alpha.png

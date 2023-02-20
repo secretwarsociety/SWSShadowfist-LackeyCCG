@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230215</lastupdateYYMMDD>
+<lastupdateYYMMDD>230219</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Better Tomorrow and Better Yesterday</message>
+<message>Final card update for release.</message>
 </version>
