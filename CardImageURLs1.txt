@@ -564,7 +564,7 @@ betteryesterday/larcenous_fog.png	https://raw.githubusercontent.com/secretwarsoc
 betteryesterday/aide_de_camp.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/aide_de_camp.png
 betteryesterday/spartan_warriors.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/spartan_warriors.png
 betteryesterday/ice_vixen.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/ice_vixen.png
-betteryesterday/chain_lighting.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/chain_lighting.png
+betteryesterday/chain_lightning.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/chain_lightning.png
 betteryesterday/contract_of_the_fox.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/contract_of_the_fox.png
 betteryesterday/cat_tactics.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/cat_tactics.png
 betteryesterday/invincible_chi.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/invincible_chi.png
@@ -2742,6 +2742,10 @@ standard/wind_across_heaven_ltd_400.jpg	https://raw.githubusercontent.com/secret
 standard/wind_on_the_mountain_ltd_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/standard/wind_on_the_mountain_ltd_400.jpg
 standard/wong_fei_hong_ltd_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/standard/wong_fei_hong_ltd_400.jpg
 standard/zheng_yi_quan_ltd_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/standard/zheng_yi_quan_ltd_400.jpg
+
+swserrata/m_a_d.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/m_a_d.png
+swserrata/heroic_bloodshed.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/heroic_bloodshed.png
+swserrata/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/salvage.png
 
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/apes_of_wrath_tw.jpg

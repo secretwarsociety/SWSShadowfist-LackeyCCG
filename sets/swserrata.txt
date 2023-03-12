@@ -1,0 +1,4 @@
+Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
+M.A.D.	swserrata	m_a_d.png	Event	Jammers	Event	1	{jam}{jam}					Fixed	mad	Choose a Feng Shui Site you control that is not the target of an attack and target a different Site :: Sacrifice the chosen Site and smoke target.	
+Heroic Bloodshed	swserrata	heroic_bloodshed.png	Event	Dragons	Event	2	{dra}{dra}{dra}{dra}					Fixed	heroic bloodshed	Limited. Crisis: {dra}{dra}{dra}{dra}0. Target a Character :: Unturn target and it gains +2 Fighting and Independent until the end of the turn.	
+Salvage	swserrata	salvage.png	Event	High Tech	Event	0	tt					Fixed	salvage	Toast It. Choose a {tek}  card in your smoked pile :: Return that card to your hand.	
