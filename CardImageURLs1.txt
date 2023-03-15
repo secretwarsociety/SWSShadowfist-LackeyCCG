@@ -784,6 +784,7 @@ combatinkowloon/sifu_beumer_cik_400.jpg	https://raw.githubusercontent.com/secret
 combatinkowloon/smiling_heaven_lake_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/smiling_heaven_lake_cik_400.jpg
 combatinkowloon/soul_theft_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/soul_theft_cik_400.jpg
 combatinkowloon/spit_and_baling_wire_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/spit_and_baling_wire_cik_400.jpg
+redwedding/stand_together_cik.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/redwedding/stand_together_cik.jpg
 combatinkowloon/stone_dolmens_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/stone_dolmens_cik_400.jpg
 combatinkowloon/student_of_the_dragon_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/student_of_the_dragon_cik_400.jpg
 combatinkowloon/superior_kung_fu_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/superior_kung_fu_cik_400.jpg
@@ -2011,7 +2012,7 @@ reinforcements/path_of_the_wily_mongoose_re2_400.jpg	https://raw.githubuserconte
 reinforcements/rabble_rousing_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rabble_rousing_re2_400.jpg
 reinforcements/recruits_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/recruits_re2_400.jpg
 reinforcements/rhesus_pieces_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rhesus_pieces_re2_400.jpg
-reinforcements/salvage_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage_re2_400.jpg
+reinforcements/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage.png
 reinforcements/semi-automatic_pistol_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/semi-automatic_pistol_re2_400.jpg
 reinforcements/sir_guinglain_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/sir_guinglain_re2_400.jpg
 reinforcements/skilled_techie_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/skilled_techie_re2_400.jpg
@@ -2099,7 +2100,7 @@ revelations/garden_of_peaceful_reflection_re3_400.jpg	https://raw.githubusercont
 revelations/hail_of_skulls_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/hail_of_skulls_re3_400.jpg
 revelations/hand_of_darkness_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/hand_of_darkness_re3_400.jpg
 revelations/haunted_tomb_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/haunted_tomb_re3_400.jpg
-revelations/heroic_bloodshed_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/heroic_bloodshed_re3_400.jpg
+revelations/heroic_bloodshed.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/heroic_bloodshed.png
 revelations/jake_rattlebones_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/jake_rattlebones_re3_400.jpg
 revelations/lantern_festival_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/lantern_festival_re3_400.jpg
 revelations/li_po_re3_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/revelations/li_po_re3_400.jpg
@@ -3158,7 +3159,7 @@ yearofthegoat/just_gettin'_riled_up_yotg.jpg	https://raw.githubusercontent.com/s
 yearofthegoat/kitsune_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/kitsune_yotg.jpg
 yearofthegoat/knight_templar_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/knight_templar_yotg.jpg
 yearofthegoat/little_flower_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/little_flower_yotg.jpg
-yearofthegoat/m.a.d._yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/m.a.d._yotg.jpg
+yearofthegoat/m_a_d.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/m_a_d.png
 yearofthegoat/martial_focus_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/martial_focus_yotg.jpg
 yearofthegoat/masked_man_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/masked_man_yotg.jpg
 yearofthegoat/master_fletcher_yotg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/yearofthegoat/master_fletcher_yotg.jpg
