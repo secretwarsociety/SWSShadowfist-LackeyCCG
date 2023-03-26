@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230315</lastupdateYYMMDD>
+<lastupdateYYMMDD>230326</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>v1.0.2 Update images for errata cards.</message>
+<message>Update A Better Yesterday images.</message>
 </version>

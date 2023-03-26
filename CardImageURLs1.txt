@@ -390,7 +390,6 @@ bettertomorrow/deep_pockets.png	https://raw.githubusercontent.com/secretwarsocie
 bettertomorrow/playing_possum.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/playing_possum.png
 bettertomorrow/forged_orders.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/forged_orders.png
 bettertomorrow/anonymous_tip.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/anonymous_tip.png
-bettertomorrow/blackmail.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/blackmail.png
 bettertomorrow/inside_job.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/inside_job.png
 bettertomorrow/framed.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/framed.png
 bettertomorrow/ghillie_suit.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/ghillie_suit.png
@@ -551,7 +550,6 @@ betteryesterday/blood_of_the_valiant.png	https://raw.githubusercontent.com/secre
 betteryesterday/resistance_squad.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/resistance_squad.png
 betteryesterday/fire_woman.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/fire_woman.png
 betteryesterday/portal_rat.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/portal_rat.png
-betteryesterday/kitty_kerosene.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/kitty_kerosene.png
 betteryesterday/too_much_monkey_business.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/too_much_monkey_business.png
 betteryesterday/elite_guards.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/elite_guards.png
 betteryesterday/imperial_guard.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/betteryesterday/imperial_guard.png
@@ -1845,6 +1843,7 @@ queensgambit/thermobaric_explosion_qg.jpg	https://raw.githubusercontent.com/secr
 queensgambit/tower_of_glass_and_steel_qg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/queensgambit/tower_of_glass_and_steel_qg.jpg
 queensgambit/vampirism_qg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/queensgambit/vampirism_qg.jpg
 queensgambit/whirlwind_transformation_qg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/queensgambit/whirlwind_transformation_qg.jpg
+queensgambit/white_ninja_promo.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/queensgambit/white_ninja_promo.jpg
 queensgambit/xins_tome_of_knowledge_qg.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/queensgambit/xins_tome_of_knowledge_qg.jpg
 
 redwedding/bring_it_rw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/redwedding/bring_it_rw.jpg
@@ -2747,6 +2746,7 @@ standard/zheng_yi_quan_ltd_400.jpg	https://raw.githubusercontent.com/secretwarso
 swserrata/m_a_d.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/m_a_d.png
 swserrata/heroic_bloodshed.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/heroic_bloodshed.png
 swserrata/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/salvage.png
+swserrata/kitty_kerosene.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/kitty_kerosene.png
 
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/apes_of_wrath_tw.jpg
