@@ -2,5 +2,5 @@
 <lastupdateYYMMDD>230326</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Update A Better Yesterday images.</message>
+<message>Update A Better Tomorrow art</message>
 </version>
