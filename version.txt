@@ -2,5 +2,5 @@
 <lastupdateYYMMDD>230327</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Fix Combat in Kowloon Stand Together and Reinforcements Salvage</message>
+<message>Fix Salvage, Stand Together</message>
 </version>

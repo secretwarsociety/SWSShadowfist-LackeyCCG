@@ -2011,7 +2011,7 @@ reinforcements/path_of_the_wily_mongoose_re2_400.jpg	https://raw.githubuserconte
 reinforcements/rabble_rousing_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rabble_rousing_re2_400.jpg
 reinforcements/recruits_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/recruits_re2_400.jpg
 reinforcements/rhesus_pieces_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rhesus_pieces_re2_400.jpg
-reinforcements/salvage_re2_400.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage_re2_400.png
+reinforcements/salvage_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage_re2_400.jpg
 reinforcements/semi-automatic_pistol_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/semi-automatic_pistol_re2_400.jpg
 reinforcements/sir_guinglain_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/sir_guinglain_re2_400.jpg
 reinforcements/skilled_techie_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/skilled_techie_re2_400.jpg
