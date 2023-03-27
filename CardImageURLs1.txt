@@ -782,7 +782,7 @@ combatinkowloon/sifu_beumer_cik_400.jpg	https://raw.githubusercontent.com/secret
 combatinkowloon/smiling_heaven_lake_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/smiling_heaven_lake_cik_400.jpg
 combatinkowloon/soul_theft_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/soul_theft_cik_400.jpg
 combatinkowloon/spit_and_baling_wire_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/spit_and_baling_wire_cik_400.jpg
-redwedding/stand_together_cik.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/redwedding/stand_together_cik.jpg
+combatinkowloon/stand_together_cik.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/stand_together_cik.jpg
 combatinkowloon/stone_dolmens_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/stone_dolmens_cik_400.jpg
 combatinkowloon/student_of_the_dragon_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/student_of_the_dragon_cik_400.jpg
 combatinkowloon/superior_kung_fu_cik_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/combatinkowloon/superior_kung_fu_cik_400.jpg
@@ -2011,7 +2011,7 @@ reinforcements/path_of_the_wily_mongoose_re2_400.jpg	https://raw.githubuserconte
 reinforcements/rabble_rousing_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rabble_rousing_re2_400.jpg
 reinforcements/recruits_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/recruits_re2_400.jpg
 reinforcements/rhesus_pieces_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/rhesus_pieces_re2_400.jpg
-reinforcements/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage.png
+reinforcements/salvage_re2_400.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/salvage_re2_400.png
 reinforcements/semi-automatic_pistol_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/semi-automatic_pistol_re2_400.jpg
 reinforcements/sir_guinglain_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/sir_guinglain_re2_400.jpg
 reinforcements/skilled_techie_re2_400.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/reinforcements/skilled_techie_re2_400.jpg
