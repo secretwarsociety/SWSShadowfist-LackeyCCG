@@ -471,7 +471,7 @@ bettertomorrow/the_sorceress.png	https://raw.githubusercontent.com/secretwarsoci
 bettertomorrow/abysmal_son.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/abysmal_son.png
 bettertomorrow/stalking_horrors.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/stalking_horrors.png
 bettertomorrow/basatan.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/basatan.png
-bettertomorrow/zhang_xiao_sheng.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/zhang_xiao_sheng.png
+bettertomorrow/dark_ruler_ishak.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/dark_ruler_ishak.png
 bettertomorrow/occult_symbols.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/occult_symbols.png
 bettertomorrow/bloodbath.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/bloodbath.png
 bettertomorrow/revivication_shard.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/revivication_shard.png
@@ -519,7 +519,7 @@ bettertomorrow/isolated_banyan_grove.png	https://raw.githubusercontent.com/secre
 bettertomorrow/prismatic_waterfall.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/prismatic_waterfall.png
 bettertomorrow/salt_mine.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/salt_mine.png
 bettertomorrow/shifting_sands.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/shifting_sands.png
-bettertomorrow/travelling_theater.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/travelling_theater.png
+bettertomorrow/traveling_theater.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/traveling_theater.png
 bettertomorrow/undisturbed_rainforest.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/undisturbed_rainforest.png
 bettertomorrow/walled_enclave.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/walled_enclave.png
 bettertomorrow/wasteland_steppes.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/bettertomorrow/wasteland_steppes.png

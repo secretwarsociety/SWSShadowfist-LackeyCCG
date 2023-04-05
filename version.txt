@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230327</lastupdateYYMMDD>
+<lastupdateYYMMDD>230405</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Fix Salvage, Stand Together</message>
+<message>SWS Plugin 1.0.4, see changelog</message>
 </version>
