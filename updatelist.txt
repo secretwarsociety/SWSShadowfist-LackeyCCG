@@ -1,9 +1,9 @@
-sws	06-03-23
+sws	07-07-23
 plugins/sws/bot.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/bot.jpg	-6212
 plugins/sws/formats.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/formats.txt	101807
 plugins/sws/plugininfo.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/plugininfo.txt	435265
 plugins/sws/pluginpreferences.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/pluginpreferences.txt	231768
-plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	34678
+plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	32745
 plugins/sws/packs/packdefinitions.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions.txt	1726794
 plugins/sws/packs/packdefinitions1.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions1.xml	256160
 plugins/sws/packs/packdefinitions2.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions2.xml	1690263
@@ -52,6 +52,9 @@ plugins/sws/decks/_precon-YotG-HAN.dek	https://raw.githubusercontent.com/secretw
 plugins/sws/decks/_precon-YotG-JAM.dek	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/decks/_precon-YotG-JAM.dek	483518
 plugins/sws/decks/_precon-YotG-LOT.dek	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/decks/_precon-YotG-LOT.dek	460251
 plugins/sws/decks/_precon-YotG-MON.dek	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/decks/_precon-YotG-MON.dek	467215
+images/backgrounds/shadowfist-playmat-narrow.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/backgrounds/shadowfist-playmat-narrow.jpg	13853
+images/backgrounds/shadowfist-playmat-wide.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/backgrounds/shadowfist-playmat-wide.jpg	37720
+images/backgrounds/shadowfist-playmat.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/backgrounds/shadowfist-playmat.jpg	61546
 plugins/sws/sets/7masters.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/7masters.txt	3206309
 plugins/sws/sets/10kbullets.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/10kbullets.txt	3498404
 plugins/sws/sets/abtpromos.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/abtpromos.txt	397737

@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230603</lastupdateYYMMDD>
+<lastupdateYYMMDD>230707</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Add Better Off Dead and A Better Tomorrow promos</message>
+<message>Add new background images</message>
 </version>
