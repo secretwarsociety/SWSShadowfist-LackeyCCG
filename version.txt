@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230710</lastupdateYYMMDD>
+<lastupdateYYMMDD>230731</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Update Greatest Fist Martial Arts</message>
+<message>Add Earthbound Warriors to errata</message>
 </version>

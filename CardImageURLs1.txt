@@ -2820,6 +2820,7 @@ swserrata/m_a_d.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadow
 swserrata/heroic_bloodshed.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/heroic_bloodshed.png
 swserrata/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/salvage.png
 swserrata/kitty_kerosene.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/kitty_kerosene.png
+swserrata/earthbound_warriors.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/earthbound_warriors.png
 
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/apes_of_wrath_tw.jpg
