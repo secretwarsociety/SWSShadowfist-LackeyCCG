@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230805</lastupdateYYMMDD>
+<lastupdateYYMMDD>230811</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Minor update to preferences</message>
+<message>Update image for M.A.D.</message>
 </version>
