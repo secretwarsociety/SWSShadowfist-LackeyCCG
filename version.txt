@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>230811</lastupdateYYMMDD>
+<lastupdateYYMMDD>240902</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Update image for M.A.D.</message>
+<message>Add 2024 promos and SWS reminder tokens</message>
 </version>

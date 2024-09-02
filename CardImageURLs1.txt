@@ -299,6 +299,17 @@ CardImageURLs:
 10kbullets/whos_the_monkey_now_10kb.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/10kbullets/whos_the_monkey_now_10kb.jpg
 10kbullets/yellow_geomancer_10kb.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/10kbullets/yellow_geomancer_10kb.jpg
 
+2024altartpromos/arcanomoth.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/arcanomoth.png
+2024altartpromos/old_man_wu.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/old_man_wu.png
+2024altartpromos/orango_tank.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/orango_tank.png
+2024altartpromos/outlaw_bikers.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/outlaw_bikers.png
+2024altartpromos/shell_of_the_tortoise.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/shell_of_the_tortoise.png
+2024altartpromos/magog.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/magog.png
+2024altartpromos/jack_donovan.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/jack_donovan.png
+2024altartpromos/dockyard.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/dockyard.png
+2024altartpromos/inexorable_corruption.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/inexorable_corruption.png
+2024altartpromos/walking_corpses.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/2024altartpromos/walking_corpses.png
+
 abtpromos/anita_dao.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/abtpromos/anita_dao.png
 abtpromos/the_burwell_incident.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/abtpromos/the_burwell_incident.png
 abtpromos/brother_rooster.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/abtpromos/brother_rooster.png
@@ -2821,6 +2832,12 @@ swserrata/heroic_bloodshed.png	https://raw.githubusercontent.com/secretwarsociet
 swserrata/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/salvage.png
 swserrata/kitty_kerosene.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/kitty_kerosene.png
 swserrata/earthbound_warriors.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/earthbound_warriors.png
+
+swstokens/burned_for_victory.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/burned_for_victory.png
+swstokens/in_crisis.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/in_crisis.png
+swstokens/further_from_victory.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/further_from_victory.png
+swstokens/canceled.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/canceled.png
+swstokens/toast_it.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/toast_it.png
 
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/apes_of_wrath_tw.jpg
