@@ -3,7 +3,7 @@ plugins/sws/bot.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadow
 plugins/sws/formats.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/formats.txt	101807
 plugins/sws/plugininfo.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/plugininfo.txt	435265
 plugins/sws/pluginpreferences.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/pluginpreferences.txt	0
-plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	33253
+plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	32561
 plugins/sws/packs/packdefinitions.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions.txt	1726794
 plugins/sws/packs/packdefinitions1.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions1.xml	256160
 plugins/sws/packs/packdefinitions2.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions2.xml	1690263

@@ -2,5 +2,5 @@
 <lastupdateYYMMDD>250502</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Introducing Rainforest Rumble</message>
+<message>Added Rainforest Rumble</message>
 </version>
