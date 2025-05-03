@@ -1,6 +1,0 @@
-Name	Set	ImageFile	Type	Faction	Subtitle	Cost	Requires	Provides	Fighting	Power	Body	Rarity	Designators	Text	Script
-Burned For Victory	swstokens	burned_for_victory.png	Token	Unaligned	Former Feng Shui Site	0				0	0	Fixed	burned victory former	This card is to be put into your Burned for Victory pile. It counts towards victory.	
-In Crisis	swstokens	in_crisis.png	Token	Unaligned	Reminder	0				0	0	Fixed	crisis reminder	Use this card as a reminder that you will not generate power during your next Establishing Shot. Then discard.	
-Further From Victory	swstokens	further_from_victory.png	Token	Unaligned	Reminder	0				0	0	Fixed	further from victory reminder	Place this card in your Burned For Victory pile to indicate that you now need an additional site to win.	
-Canceled	swstokens	canceled.png	Token	Unaligned	Reminder	0				0	0	Fixed	canceled reminder	Use this card as a reminder that subject has been canceled. Discard upon expiration.	
-Toast It!	swstokens	toast_it.png	Token	Unaligned	Reminder	0				0	0	Fixed	toast it reminder	Use this card as a reminder that subject will be toasted when it leaves play.	

@@ -3105,12 +3105,6 @@ swserrata/salvage.png	https://raw.githubusercontent.com/secretwarsociety/SWSShad
 swserrata/kitty_kerosene.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/kitty_kerosene.png
 swserrata/earthbound_warriors.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swserrata/earthbound_warriors.png
 
-swstokens/burned_for_victory.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/burned_for_victory.png
-swstokens/in_crisis.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/in_crisis.png
-swstokens/further_from_victory.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/further_from_victory.png
-swstokens/canceled.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/canceled.png
-swstokens/toast_it.png	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/swstokens/toast_it.png
-
 thronewar/andrea_van_de_graaf_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/andrea_van_de_graaf_tw.jpg
 thronewar/apes_of_wrath_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/apes_of_wrath_tw.jpg
 thronewar/baboom_tw.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/thronewar/baboom_tw.jpg

@@ -88,13 +88,12 @@ plugins/sws/sets/shaolinshowdown.txt	https://raw.githubusercontent.com/secretwar
 plugins/sws/sets/shurikensandsixguns.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/shurikensandsixguns.txt	3303559
 plugins/sws/sets/standard.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/standard.txt	6107196
 plugins/sws/sets/swserrata.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/swserrata.txt	123990
-plugins/sws/sets/swstokens.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/swstokens.txt	98926
 plugins/sws/sets/thronewar.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/thronewar.txt	2179384
 plugins/sws/sets/twofistedtales.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/twofistedtales.txt	3220589
 plugins/sws/sets/yearofthedragon.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/yearofthedragon.txt	2446627
 plugins/sws/sets/yearofthegoat.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/yearofthegoat.txt	3979249
 plugins/sws/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/general/cardback.jpg	-44355
 plugins/sws/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/setimages/general/spawned.jpg	-18038
-plugins/sws/CardImageURLs1.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/CardImageURLs1.txt	59455082
+plugins/sws/CardImageURLs1.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/CardImageURLs1.txt	59380626
 CardURLFiles:
 CardImageURLs1.txt
