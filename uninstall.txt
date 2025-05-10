@@ -1,0 +1,6 @@
+<uninstall>
+
+<dateYYMMDD>250510</dateYYMMDD>
+<removepath>sets/swstokens.txt</removepath>
+
+</uninstall>

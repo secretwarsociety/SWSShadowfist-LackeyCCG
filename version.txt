@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250503</lastupdateYYMMDD>
+<lastupdateYYMMDD>250510</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Added Rainforest Rumble</message>
+<message>Remove swstokens.txt</message>
 </version>
