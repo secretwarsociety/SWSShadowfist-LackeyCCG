@@ -1,9 +1,9 @@
-sws	05-10-25
+sws	06-11-25
 plugins/sws/bot.jpg	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/bot.jpg	-6212
 plugins/sws/formats.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/formats.txt	101807
 plugins/sws/plugininfo.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/plugininfo.txt	435265
 plugins/sws/pluginpreferences.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/pluginpreferences.txt	0
-plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	32423
+plugins/sws/version.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt	37124
 plugins/sws/packs/packdefinitions.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions.txt	1726794
 plugins/sws/packs/packdefinitions1.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions1.xml	256160
 plugins/sws/packs/packdefinitions2.xml	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/packs/packdefinitions2.xml	1690263
@@ -77,13 +77,13 @@ plugins/sws/sets/netherworld.txt	https://raw.githubusercontent.com/secretwarsoci
 plugins/sws/sets/netherworld2.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/netherworld2.txt	3944129
 plugins/sws/sets/promos.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/promos.txt	260774
 plugins/sws/sets/queensgambit.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/queensgambit.txt	1406316
-plugins/sws/sets/rainforestrumble.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/rainforestrumble.txt	6140338
+plugins/sws/sets/rainforestrumble.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/rainforestrumble.txt	6141858
 plugins/sws/sets/redwedding.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/redwedding.txt	2957285
 plugins/sws/sets/reinforcements.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/reinforcements.txt	1226708
 plugins/sws/sets/reloaded.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/reloaded.txt	1163613
 plugins/sws/sets/revelations.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/revelations.txt	1196811
 plugins/sws/sets/rrpromos.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/rrpromos.txt	502552
-plugins/sws/sets/rrtokens.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/rrtokens.txt	671987
+plugins/sws/sets/rrtokens.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/rrtokens.txt	673721
 plugins/sws/sets/shaolinshowdown.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/shaolinshowdown.txt	3416040
 plugins/sws/sets/shurikensandsixguns.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/shurikensandsixguns.txt	3303559
 plugins/sws/sets/standard.txt	https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/sets/standard.txt	6107196

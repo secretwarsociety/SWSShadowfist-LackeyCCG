@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>250510</lastupdateYYMMDD>
+<lastupdateYYMMDD>250611</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/secretwarsociety/SWSShadowfist-LackeyCCG/main/updatelist.txt</updateurl>
-<message>Remove swstokens.txt</message>
+<message>Fix Shadow of the Jaguar, Battlecopter, Path to Enlightenment, Monkey King</message>
 </version>
